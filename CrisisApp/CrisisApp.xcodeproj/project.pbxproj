@@ -20,6 +20,9 @@
 		C33E254B219FE9AF00FFA6F7 /* SuicidalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C33E254A219FE9AF00FFA6F7 /* SuicidalViewController.swift */; };
 		C33E254D219FE9C300FFA6F7 /* UnmotivatedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C33E254C219FE9C300FFA6F7 /* UnmotivatedViewController.swift */; };
 		C33E254F219FEA0B00FFA6F7 /* StressedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C33E254E219FEA0B00FFA6F7 /* StressedViewController.swift */; };
+		C3C9FFAD21A0214100EC31F0 /* ProtectedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3C9FFAC21A0214100EC31F0 /* ProtectedViewController.swift */; };
+		C3C9FFB121A02C2500EC31F0 /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3C9FFB021A02C2500EC31F0 /* RegisterViewController.swift */; };
+		C3C9FFB321A03FB600EC31F0 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3C9FFB221A03FB600EC31F0 /* LoginViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +62,9 @@
 		C33E254A219FE9AF00FFA6F7 /* SuicidalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuicidalViewController.swift; sourceTree = "<group>"; };
 		C33E254C219FE9C300FFA6F7 /* UnmotivatedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnmotivatedViewController.swift; sourceTree = "<group>"; };
 		C33E254E219FEA0B00FFA6F7 /* StressedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StressedViewController.swift; sourceTree = "<group>"; };
+		C3C9FFAC21A0214100EC31F0 /* ProtectedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProtectedViewController.swift; sourceTree = "<group>"; };
+		C3C9FFB021A02C2500EC31F0 /* RegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
+		C3C9FFB221A03FB600EC31F0 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +127,9 @@
 				C33E2548219FE99A00FFA6F7 /* DepressedViewController.swift */,
 				C33E254A219FE9AF00FFA6F7 /* SuicidalViewController.swift */,
 				C33E254C219FE9C300FFA6F7 /* UnmotivatedViewController.swift */,
+				C3C9FFAC21A0214100EC31F0 /* ProtectedViewController.swift */,
+				C3C9FFB021A02C2500EC31F0 /* RegisterViewController.swift */,
+				C3C9FFB221A03FB600EC31F0 /* LoginViewController.swift */,
 			);
 			path = CrisisApp;
 			sourceTree = "<group>";
@@ -275,6 +284,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C33E2545219FE94200FFA6F7 /* AnxiousViewController.swift in Sources */,
+				C3C9FFB121A02C2500EC31F0 /* RegisterViewController.swift in Sources */,
 				C33E2519219FD44800FFA6F7 /* HomeViewController.swift in Sources */,
 				C33E254B219FE9AF00FFA6F7 /* SuicidalViewController.swift in Sources */,
 				C33E254F219FEA0B00FFA6F7 /* StressedViewController.swift in Sources */,
@@ -282,6 +292,8 @@
 				C33E254D219FE9C300FFA6F7 /* UnmotivatedViewController.swift in Sources */,
 				C33E2549219FE99A00FFA6F7 /* DepressedViewController.swift in Sources */,
 				C33E2547219FE97F00FFA6F7 /* LonelyViewController.swift in Sources */,
+				C3C9FFAD21A0214100EC31F0 /* ProtectedViewController.swift in Sources */,
+				C3C9FFB321A03FB600EC31F0 /* LoginViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
